@@ -4,4 +4,4 @@ class Anagram
   
   
   
-  ebnd
+end
